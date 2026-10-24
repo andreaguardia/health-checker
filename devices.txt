@@ -1,0 +1,8 @@
+# name,ip
+# Format: name, comma, IP (no spaces around the comma).
+Google DNS,8.8.8.8
+Cloudflare DNS,1.1.1.1
+VMware gateway,192.168.233.2
+My Windows PC,192.168.233.1
+Docker network,172.17.0.1
+Fake device,10.255.255.1
